@@ -1,0 +1,28 @@
+ 
+    
+     .row.reviews { margin:0;     }
+     
+     .col-md-3 ,    .col-md-12{ padding:3px; }
+     
+       .row.reviews .col-md-3 .card { padding:15px;     margin: 0 0 6px;  }
+        .row.reviews .col-md-3 .card i {     color: #F3AA00; 
+    margin: 8px 6px 0 0;
+    font-size: 17px; }
+    
+    .row.reviews .col-md-3 .card i.fa-quote-left, .row.reviews .col-md-3 .card i.fa-quote-right {    font-size: 14px;
+    color: #636363;
+    margin: 0;  }
+    
+    
+     .reviews-title { 
+    margin: 0 0 7px 0;
+}
+      .row.reviews .card {    margin: 7px 0 0 0;}
+       .row.reviews .card span.review-title {}
+       .row.reviews .card p.client {      font-size: 14px;
+    font-weight: 600;
+    margin: 0px 0 5px 0;
+    color: #976BDA;
+    text-transform: uppercase;  }
+    
+  .row.reviews .card p.review { margin:0; } 

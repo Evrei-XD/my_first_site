@@ -1,0 +1,88 @@
+
+ body, html { height:100%; }
+ 
+ body {
+    
+ }
+
+
+ .col-md-4 { padding:3px; }
+
+ 
+ 
+ 
+
+ .page-conten.events-content {
+     
+     
+     
+ }
+
+ .events-intro { }
+ 
+  
+  .page-conten.events-content {    background-color: rgba(49, 49, 49, 0.69);
+    background-image: url("../club-paintball-img/small_dot.png");
+  }
+ 
+ .card {
+    background: #404040;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.34);
+    display: block;
+    max-width: 100%;
+    width: 100%;
+       margin: 0 0 0px 0;
+           min-height: 306px;
+    float: left;
+}
+ 
+ .holder {     margin: 15px;
+     }
+     
+     
+     a.event-link { color:inherit;  }
+    a.event-link:hover { opacity:.7; }
+ 
+  .card img { max-width:100%; width:100%; display:block; margin:0px;  }
+ 
+
+
+.service-title {             font-size: 12.5px;
+        margin: 8px 0 8px 0;  
+    display: block;
+    font-weight: 500;
+    color: #656565; }
+
+.item-title {     font-size: 15px;
+    margin: 0 0 3px 0;
+    display: block;
+    font-weight: 400;
+    color: #FFBE00;
+    text-transform: uppercase; }
+
+.service_price {color: #676767;  }
+
+#first_label {
+           color: #7AAF0C;
+    font-size: 16px;
+    margin: 15px 0 0px 0;
+    text-transform: uppercase;
+    padding: 0px 0px 16px 0px;
+    background: #333;
+    font-weight: 600;
+    display: block; 
+}
+
+
+
+.caption-subject {      font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    clear: both;
+    display: block;  }
+    
+    
+    .portlet.light.styled_tg_events { background-color: rgba(80, 80, 80, 0.2);
+    border-radius: 1px;      padding: 0px 0px 15px 0px; }
+    
+    

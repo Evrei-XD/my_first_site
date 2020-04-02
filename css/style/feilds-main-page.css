@@ -1,0 +1,10 @@
+.main-feilds-title {     margin: 15px 0 0 0;}
+.col-md-8.main, .col-md-4.main,  .col-md-4 { padding:3px; }
+.col-md-4.main {    padding-top: 53px;}
+.container.wide {max-width:100%; }
+.item,.owl-carousel .owl-item,.owl-carousel .owl-wrapper-outer { max-height:inherit!important; } 
+
+
+img.main-img { max-width:100%; width:100%; }
+img.main-img.large {padding: 3px 3px 0 3px; }
+.no-padding { padding:0; margin:0; }

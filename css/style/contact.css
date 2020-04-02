@@ -1,0 +1,123 @@
+body {
+        background-image: url("/_/cart_img/cart_bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+ .page-header .page-header-top, .page-header .page-header-menu {
+    background: rgba(82, 82, 82, 0.38);
+}
+   .page-content { background:transparent; }
+   
+   
+   #first_label {
+    color: #7AAF0C;
+    font-size: 16px;
+    margin: 0px 0 0px 0;
+    text-transform: uppercase;
+    padding: 0px 0px 12px 0px;
+ 
+    font-weight: 600;
+    display: block;
+}
+   
+   
+   .card {
+      background: rgba(64, 64, 64, 0.33); 
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.28);
+    float: left;
+    max-width: 100%;
+    width: 100%;
+    padding: 15px;
+    margin: 0 0 20px 0; 
+}
+   
+   
+    #contact_wrap {
+           
+           margin: 10px 0 0 0;
+           
+           
+       }
+ 
+
+                #contact_numbers {            
+  
+    float: left;
+    width: 100%;
+    margin: 7px 0px 0px 0px; 
+              }
+                
+               ul, ul li {     margin: 0;
+    padding: 0; }
+
+                #contact_socials { width: 457px; float:right;  margin-top: 21px; }
+                
+                #contact_numbers ul, #contact_socials ul { }
+                
+                #contact_numbers ul li {}
+
+                #contact_socials ul li { float:right; }
+                
+                #contact_numbers ul li img {     display: block;
+  width: 34px;
+  margin: 25px auto 0px auto;
+  clear: both; }
+
+   
+
+                
+                #contact_socials ul li img { margin-left: 34px;  opacity:.5; }
+
+                             #contact_socials ul li img:hover { margin-left: 34px;  opacity:1; }
+ 
+                h1 {    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 22px;
+    color: #7B7B7B;
+    text-shadow: 0 0 1px #000;  }
+                             
+ 
+              
+                    
+                  h2, h2, h3, h4  { 
+                            font-weight: 400;
+    font-size: 18px;
+    color: rgb(255, 84, 0);
+    margin: 0px 0 15px 0;
+    width: 100%;
+    text-transform: uppercase;  }
+    
+    h3,h4 { color:#7AAF0C; }
+    
+    .add_space { margin:0; }
+    
+    .gmaps {
+    height: 300px;
+    width: 100%;
+    opacity: .7;
+}
+                
+                
+                .portlet.light {     float: left;
+    width: 100%;
+    margin: 7px 0px 20px 0px;
+    background: rgba(90, 90, 90, 0.5);
+    padding: 20px;  }
+    
+    #attn3 {  display: block;
+    margin: 0;
+    clear: both;
+    font-size: 14px;
+ }
+    
+      .yandex-info p {    margin: 5px 0 5px 0; }
+      .yandex-info p strong {     font-size: 14px;     margin: 0px 0 5px 0;
+    font-weight: 500;
+    color: #888; }
+    
+    
+                     
+           

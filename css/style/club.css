@@ -1,0 +1,173 @@
+
+ body.club {
+       
+ }
+ 
+ 
+ 
+
+
+.page-container .page-content { margin:0; padding:0; }
+
+ .row.videos-holder-row {     margin: 0; }
+
+ .col-md-6, .col-md-3 { padding:3px; }
+ 
+ 
+  .row.videos-holder-row .col-md-12 { padding:0; }
+  
+  .videos-holder-row .col-md-12 .card {    margin: 0 0 20px 0;  } 
+ 
+.row.videos-holder-row .col-md-4, .row.videos-holder-row .col-md-6 { position:relative;  margin:0; padding:0; overflow: hidden;  }
+.col-xs-2 {padding:0; }
+
+
+
+ h1 {
+         margin: 15px 0 2px 17px; 
+ }
+
+
+  .video-link:hover * { color:#69AF0C; }
+
+
+
+
+
+  #video_bg1, #video_bg2, #video_bg3, #video_bg4, #video_bg5 {     max-width: 100%;
+    display: block;
+    width: 100%;
+    float: left;   }
+    
+    
+  video {     max-width: 100%;
+    opacity: .5;
+    padding: 0;
+    margin: 0;
+    float: left;   }
+  video.playing { opacity:.8; }
+
+
+   #intro { height:inherit!important;    background-color: rgba(31, 31, 31, 0.76);
+    background-image: url("../club-paintball-img/small_dot.png");  }
+   
+ 
+   .about-title   {    
+        clear: both;
+    margin: 16px 0 10px 17px;
+    float: left;
+    width: 100%; 
+}
+ 
+ 
+    
+   .details-link  {
+                 transition: All 1s ease;
+    -webkit-transition: All 1s ease;
+    -moz-transition: All 1s ease;
+    -o-transition: All 1s ease;
+    }
+ 
+
+     .feilds-col {}
+ 
+      
+ 
+      
+      .feilds-details-link {}
+      .feilds-details-link span {    text-align: center;
+    width: 100%;
+    float: left;
+    margin: 6px 0 0 0; }
+    
+    
+    
+    
+    
+    
+    /* left sidebar */
+   
+   
+   .single-feilds-slider { margin:0  0 20px 0; }
+   
+   .feild-label {
+        font-weight: 600;
+    text-transform: uppercase;
+    margin: 11px 0 10px 16px;
+}
+   
+   .feild-label a { color:inherit; text-decoration:none; }
+  .feild-label a:hover {     color: #68D806;}
+   
+    /* sidebar feidls -  owl slider */
+
+.owl-carousel .owl-wrapper-outer, .owl-carousel .owl-item, .item{
+
+       margin: 0; 
+       max-height: inherit!important;
+}
+
+.horizonal-helper {
+        float: left;
+    width: 100%;
+    max-width: 100%;
+}
+
+.owl-theme .owl-controls {
+    margin: 11px 20px 3px 8px;
+    text-align: left;
+}
+.item img { opacity:.7; }
+.no-padding{ padding:0; }
+.no-padding .card { margin: 0 0 12px 0; }
+ 
+.sidebar-feilds-label {         font-size: 14px;
+    color: #69AF0C;
+    margin: 0 0 14px 0;
+    display: block; }
+
+
+
+/* ---------------- */
+
+
+
+
+
+
+
+   /* club - item - template  */
+
+
+  .col-md-2, .col-md-3, .col-md-4, .col-md-5  { padding:3px;  }
+
+ .club-wide { max-width:100%; width:100%; }
+ .club-reg { max-width:100%; width:100%; margin:0 0 20px 0; }
+
+
+
+
+  /* club about page */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   

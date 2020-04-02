@@ -1,0 +1,360 @@
+ 
+ html, body, .page-container { height:100%; }
+  
+        
+header #top_nav {
+      border-bottom: 1px solid rgba(119, 119, 119, 0.36);
+  background: rgba(31, 31, 31, 0.82);
+  box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.49); 
+}        
+         
+         
+         .date { display:block; clear:both; }
+      
+      #first_label {
+    color: #7AAF0C;
+    font-size: 16px;
+    margin: 15px 0 0px 0;
+    text-transform: uppercase;
+    padding: 0px 0px 16px 0px;
+    background: #333;
+    font-weight: 600;
+    display: block;
+}   
+         
+ .overlay {  width: 100%;
+  height: 100%;
+  top:0;
+  left:0;
+  position: fixed;
+  background: #646565;
+  z-index: 9999999; }
+  
+  .overlay img {  position: relative;
+  display: block;
+  opacity:.5; 
+  margin: 22% auto 0;}  
+  
+
+
+.demo {
+ display:block; 
+ margin:0; 
+ padding:0;
+ max-width:100%; 
+ float:left; 
+ width:100%; 
+min-height:105%; 
+}  
+.clear {
+    clear:both;
+}
+
+
+
+
+
+h1#title {       display: block;
+  margin: 102px auto 0 auto;
+  text-align: center;
+  color: rgba(172, 215, 48, 1);
+  text-transform: uppercase;
+  font-family: machine;
+  font-size: 40px;
+  font-weight: normal;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.62);
+  letter-spacing: 2px;  } 
+
+
+
+h2.follow_us {width: 100%;
+  text-align: center;
+  color: rgba(253, 115, 0, 1);
+  font-family: machine;
+  font-size: 44px;
+  margin: 14px 0 3px;
+  letter-spacing: 3px;
+  float: left;
+  text-shadow: 0 1px 1px #000;
+  font-weight: normal; } 
+
+
+
+/* pretty-code.css */
+.com { color: #93a1a1; }
+.lit { color: #195f91; }
+.pun, .opn, .clo { color: #93a1a1; }
+.fun { color: #dc322f; }
+.str, .atv { color: #D14; }
+.kwd, .linenums .tag { color: #1e347b; }
+.typ, .atn, .dec, .var { color: teal; }
+.pln { color: #48484c; }
+
+pre.prettyprint {
+  padding: 8px;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+}
+.prettyprint.linenums {
+    -webkit-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+    -moz-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+    box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+    line-height: 0;
+}
+
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums {
+  margin: 0 0 0 33px; /* IE indents via margin-left */
+} 
+
+ol.linenums li {
+  padding-left: 12px;
+  color: #bebec5;
+  line-height: 18px;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.hero-unit {
+    background:none;
+    margin-bottom: 0;
+    padding: 23px 40px 23px 0;
+}
+
+.hero-unit h1{
+    color:#2f6f8f;
+}
+
+.page-header {
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-inner {
+    background:url("images/texture2.jpg");
+}
+
+.btn-success { background:#3A87AD; }
+.btn-success:hover { background:#3A87AD; }
+
+.master.container {
+     width: 1000px;
+float: left;
+}
+
+/* Plugin CSS */
+.instagram-photo {
+    position: relative;
+    padding: 0;
+    overflow: hidden; 
+}
+
+.instagram-photo .instagram-hover-cover {
+     
+position: absolute;
+bottom: 0px;
+ background: rgba(26, 26, 26, 0.88); 
+
+ 
+
+}
+
+
+
+.instagram-photo .instagram-hover-cover h3 {color: rgba(255, 0, 0, 0.83);
+line-height: 20px;
+margin: 15px 17px 5px 15px;
+font-size: 20px;
+float:left; 
+font-weight: normal; }
+
+
+
+.instagram-photo .instagram-hover-cover em { display: inline-block;
+font-size: 9.5px;
+float:left;
+font-style: normal;
+height: 14px;
+margin: 0 17px 0 17px;
+text-transform: uppercase;
+color: #8B8B8B;  }
+
+
+.instagram-photo .instagram-hover-cover p {  
+color: rgba(58, 241, 0, 0.69);
+line-height: 19px;
+margin: 6px 17px 12px 16px;
+float: left;
+font-size: 14px;
+
+ }
+
+.searchBox {
+    color: #999999;
+    float: left;
+    font-size: 26px;
+    height: 45px;
+    margin-bottom: 16px;
+    padding: 5px 10px;
+    width: 690px;
+}
+.searchBox:focus { color:#555; }
+
+.searchInstagram {
+    cursor: pointer;
+    float: left;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 6px;
+    padding: 18px 14px;
+}
+
+.searchInstagram:hover {
+    text-decoration:none;
+}
+
+.seachInstagramLoadMore {
+    display: block;
+    margin: 20px auto 0;
+    width: 155px;
+}
+
+ul.ibSearchType {
+    border:solid #828282 1px;
+    display:inline-block;
+    height:26px;
+    list-style:none;
+    margin: 0 0 15px;
+    overflow: hidden;
+    -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+            border-radius: 5px;
+}
+
+ul.ibSearchType li {
+    background:url("images/selection-bg.png") repeat-x;
+    float:left;
+    cursor:pointer;
+    height:26px;
+    text-align:center;
+    width:152px;
+}
+
+ul.ibSearchType li.active { background:url("images/selection-bg-active.png") repeat-x; }
+ul.ibSearchType li.active a { color:#ffffff; }
+ul.ibSearchType li.user { border-right: 1px solid #5E5E5E; }
+
+ul.ibSearchType li a {
+    color:#555555;
+    display:inline-block;
+    font-weight:bold;
+    margin-top: 3px;
+    text-decoration:none;
+}
+
+/* User Search 
+---------------------------*/
+.instagram-user {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: solid 1px #CCCCCC;
+    border-bottom:none;
+    clear: both;
+    height: 150px;
+    padding: 19px 17px;
+    width: 767px;
+}
+
+.instagram-user img {
+    float:left;
+    margin-right:15px;
+}
+
+.instagram-user .instagram-username {
+    color: #2E333E;
+    display: block;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 3px;
+    margin-top: 52px;
+    text-transform: uppercase;
+}
+.instagram-user .instagram-username:hover { color:#2E6F8F; cursor:pointer; }
+
+.instagram-user .instagram-fullname {
+    color:#666;
+}
+
+/* -----------------------------------
+        Demo Only Styles
+-----------------------------------*/
+div#quicknav {
+    background: url("http://dev.chrisriversdesign.com/jquery-instagram-browser/demo/css/images/bg-help.png") repeat-y scroll 0 0 transparent;
+    height: 100%;
+    padding: 24px;
+    position: fixed;
+    right: -343px;
+    /* right:0; */
+    top: 0;
+    width: 288px;
+    z-index: 65000;
+}
+
+div#quicknav h1 {
+    color: #FFFFFF;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+div#quicknav ul.support-options {
+    list-style-type: none;
+    margin-bottom: 15px;
+    margin-left: 0;
+}
+
+div#quicknav ul.support-options li {
+    border-bottom: 1px solid #333333;
+    cursor:pointer;
+    margin-bottom:10px;
+}
+
+div#quicknav ul.support-options li a {
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    line-height: 24px;
+    padding: 0 0 0;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000000;
+}
+
+div#quicknav ul.support-options li a span {
+    color: #666666;
+    display: block;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+div#quicknav .close, div#quicknav .open {
+    cursor: pointer;
+    color: #ccc;
+    font-family: Arial,sans-serif;
+    font-size:13px;
+    text-shadow: none;
+}
+
+div#quicknav .open { display:none; }
+
+div#quicknav .modeDemoSelect {
+    margin-bottom:10px;
+    width:197px;
+}
+
+div#quicknav .colorDemoSelect {
+    margin-bottom:10px;
+    width:197px;
+}
+
+div#quicknav .also a span {
+    line-height:18px;
+    padding-bottom:10px;
+}
